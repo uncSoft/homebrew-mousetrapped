@@ -1,6 +1,6 @@
 cask "mousetrapped" do
-  version "1.0.0"
-  sha256 "b515c230e18f5a8e76f13a191f73f964d608b2bfb22361328383e279607f337e"
+  version "1.0.1"
+  sha256 "bd200fb3d6475b32efac8a839369559bff86214f41bc06045bcb36ddbe423b41"
 
   url "https://github.com/uncSoft/Mousetrapped/releases/download/v#{version}/Mousetrapped-#{version}.zip"
   name "Mousetrapped"
