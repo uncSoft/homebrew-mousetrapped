@@ -13,7 +13,7 @@ cask "mousetrapped" do
   end
 
   # Built against macOS 13 (Ventura), the app's LSMinimumSystemVersion.
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Mousetrapped.app"
 
